@@ -1,5 +1,7 @@
 # Code for REFERS
-This repository provides the official implementation of our paper "Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports" [official](https://www.nature.com/articles/s42256-021-00425-9.pdf), which was published at Nature Machine Intelligence, 2022.
+This repository provides the official implementation of our paper "[Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports](https://www.nature.com/articles/s42256-021-00425-9.pdf)", which was published at Nature Machine Intelligence, 2022.
+
+**Based on cross-supervised learning (text as supervision), REFERS generates pre-trained models which produce state-of-the-art results on different radiograph benchmarks!**
 
 This project is divided into two parts: pre-training and fine-tuning. 
 
