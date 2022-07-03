@@ -6,6 +6,7 @@ This repository provides the official implementation of our paper "[Generalized 
 This project is divided into two parts: pre-training and fine-tuning. 
 
 ### Updates:
+
 7.3.2022 Upload missing files: train/val_img_captions_patients.txt ([Google Drive](https://drive.google.com/drive/folders/1tsSbvrDVJeDNBRV0QE0VCcVwM8lh8UBk?usp=sharing))
 ---
 ## Installation
