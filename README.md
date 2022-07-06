@@ -7,6 +7,7 @@ This project is divided into two parts: pre-training and fine-tuning.
 
 ## Updates
 7.7.2022 Model uploaded ([ViT-B_16.npz](https://drive.google.com/file/d/1fXmbkznCNbKzMO6p66viVtVf2o1i2d_J/view?usp=sharing))
+
 7.3.2022 Missing files uploaded: train/val_img_captions_patients.txt ([Google Drive](https://drive.google.com/drive/folders/1tsSbvrDVJeDNBRV0QE0VCcVwM8lh8UBk?usp=sharing))
 
 ---
