@@ -46,8 +46,8 @@ class fusion(nn.Module):
         weight3 = self.sigmoid(weight3)
 
         weight1 = weight1.view(batch_size, -1).unsqueeze(2)
-        weight2 = weight1.view(batch_size, -1).unsqueeze(2)
-        weight3 = weight1.view(batch_size, -1).unsqueeze(2)
+        weight2 = weight2.view(batch_size, -1).unsqueeze(2)
+        weight3 = weight3.view(batch_size, -1).unsqueeze(2)
 
         return weight1, weight2, weight3
 
